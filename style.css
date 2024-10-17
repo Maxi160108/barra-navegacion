@@ -1,11 +1,16 @@
 .nav{
     background-color: rgb(39, 39, 39);
     display: flex;
+    padding: 10px;
 }
+.nav-title{
+    flex:4;
+}
+
 ul{
     list-style-type: none;
     display: flex; 
-    margin: auto;
+    
 }
 li{
     margin: auto;
